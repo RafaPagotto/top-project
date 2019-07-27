@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <span>Olá Mundo</span>
+        <span>Hello World</span>
       </header>
     </div>
   );
